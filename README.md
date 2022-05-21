@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<p align="center">
-<a href="https://linkedin.com/in/farukulutas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="farukulutas" height="20" width="20" /></a>
-</p>
+I'm Faruk. I love to learn, teach and share. :raised_hands:
+
+🔭 I’m currently working on BLC Communication and Security Systems and PwnLab.
+
+📫 How to reach me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/farukulutas)
 
 <!--
 **farukulutas/farukulutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
