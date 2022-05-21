@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Faruk. I love to learn, teach and share. :raised_hands:
+I'm Faruk. I love to learn and share. :raised_hands:
 
 🔭 I’m currently working on [BLC Communication and Security Systems](https://www.blc-css.com/) and [PwnLab](https://pwnlab.me/)
 
