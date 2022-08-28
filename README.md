@@ -2,7 +2,7 @@
 
 I'm Faruk. I love to learn and share. :raised_hands:
 
-🔭 I’m currently working on [ISOMER Informatics](http://isomer.com.tr), [BLC Communication and Security Systems](https://www.blc-css.com/) and [PwnLab](https://pwnlab.me/)
+🔭 I’m currently working on [ISOMER Informatics](http://isomer.com.tr)
 
 📫 How to reach me:
 
