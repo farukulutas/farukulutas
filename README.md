@@ -2,7 +2,7 @@
 
 I'm Faruk. I love to learn and share. :raised_hands:
 
-🔭 I’m currently working on [ISOMER Informatics](http://isomer.com.tr)
+🔭 I’m currently working on [RadiusAI](https://radius.ai/)
 
 📫 How to reach me:
 
