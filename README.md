@@ -1,29 +1,38 @@
-### Hi there 👋
+# Hi there, I'm Faruk 👋
 
-I'm Faruk. I love to learn and share. :raised_hands:
+I'm passionate about learning and sharing knowledge! :raised_hands:
 
-🔭 I’m currently working on [RadiusAI](https://radius.ai/)
+🔭 Currently working at [RadiusAI](https://radius.ai/)
 
-📫 How to reach me:
+📫 Connect with me:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/farukulutas)
+[![LinkedIn Badge](https://img.shields.io/badge/-Faruk%20Ulutas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farukulutas/)](https://www.linkedin.com/in/farukulutas/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Languages and Tools:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/postman/postman-plain-wordmark.svg" alt="postman" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/scikitlearn/scikitlearn-original-wordmark.svg" alt="scikit_learn" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/seaborn/seaborn-original-wordmark.svg" alt="seaborn" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=farukulutas&show_icons=true&locale=en&layout=compact&hide=Vue,%20Blade,%20Assembly,%20Python,%20SystemVerilog,%20HTML" alt="farukulutas" /></p>
-
-<!--
-**farukulutas/farukulutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukulutas&langs_count=8&layout=compact&hide=Vue,Blade,Assembly,Python,SystemVerilog,HTML)](https://github.com/anuraghazra/github-readme-stats)
