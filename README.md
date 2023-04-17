@@ -25,11 +25,8 @@ I'm passionate about learning and sharing knowledge! :raised_hands:
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/postman/postman-plain-wordmark.svg" alt="postman" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/scikitlearn/scikitlearn-original-wordmark.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/seaborn/seaborn-original-wordmark.svg" alt="seaborn" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
