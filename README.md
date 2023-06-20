@@ -2,8 +2,6 @@
 
 I'm passionate about learning and sharing knowledge! :raised_hands:
 
-🔭 Currently working at [RadiusAI](https://radius.ai/)
-
 📫 Connect with me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Faruk%20Ulutas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farukulutas/)](https://www.linkedin.com/in/farukulutas/)
