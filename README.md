@@ -2,7 +2,7 @@
 
 I'm Founder & Instructor at [CyberSkillsHub](https://cyberskillshub.com/), passionate about learning and sharing knowledge! :raised_hands:
 
-Join me in the journey of [Applied Cybersecurity Fundamentals Training and Career Guide](https://cyberskillshub.com/courses/uygulamali-siber-guvenlik-temelleri-egitimi-ve-kariyer-rehberi/) :shield:
+Join me in the journey of [Applied Cybersecurity Fundamentals Training and Career Guide](https://cyberskillshub.com/courses/siber-guvenlik-temelleri-egitimi/) :shield:
 
 📫 Connect with me:
 
